@@ -6,7 +6,7 @@ Added same license CC BY-SA 4.0 to this repo.
 
 ----
 
-##### Also added derivate **CRF-Safeguards-Assessment-Tool-v2025.xlxs** with slightly different approach https://crfsecure.org/research/crf-safeguards/ . 
+##### Also added **CRF-Safeguards-Assessment-Tool-v2025.xlxs** with different approach https://crfsecure.org/research/crf-safeguards/
 
 For this license is unclear but there a resctrictions:
 
