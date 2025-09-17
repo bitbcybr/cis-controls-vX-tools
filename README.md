@@ -4,4 +4,4 @@ as no roadmap to work on it, no fork or clone was made.
 
 added same license CC BY-SA 4.0 to this repo.
 
-Also added derivate with slightly different approach https://crfsecure.org/research/crf-safeguards/
+Also added derivate with slightly different approach https://crfsecure.org/research/crf-safeguards/ . for this license is unclear.
