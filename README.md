@@ -12,9 +12,10 @@ For this license is unclear but there a resctrictions:
 
 https://crfsecure.org/terms-of-use/
 "Subscription Level 	Usage rights
+
 Free, Individual and Enterprise
 	·   Members at these levels may use CRF materials strictly for internal business purposes and may not distribute, share, or utilize them for external client engagements.
-
+ 
 Consulting Firm 	
 ·  Members at this level may use CRF materials for internal business purposes.
 ·  Consulting Firm Users may use CRF materials internally for the purpose of delivering consulting services to their clients. However, such Users may not share, distribute, or provide direct access to CRF materials, research, or tools to clients. Clients must obtain their own CRF subscriptions to access content or tools directly.
