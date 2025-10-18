@@ -1,3 +1,7 @@
+#### Adding updated Worksheet for v.8.1
+Security Functions updated. Some work to do but as of the great work from Auditscripts and MartinSohn not that much.
+NIST Checks will follow.
+
 #### Adding **CIS_Controls_Initial_Assessment_Tool_v8.0b_martinsohndk.xlsx** from https://github.com/MartinSohn/CIS-Controls to have it here to maybe sometime work on it. 
 
 As no roadmap to work on it, no fork or clone was made.
