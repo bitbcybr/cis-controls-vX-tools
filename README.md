@@ -1,6 +1,6 @@
 #### Adding updated Worksheet for v.8.1
 Security Functions updated. Some work to do but as of the great work from Auditscripts and MartinSohn not that much.
-Check of Safeguard Descriptions and Asses Classes as well as NIST will follow.
+Check of Safeguard Descriptions and Asset Classes as well as NIST will follow.
 
 License as was CC BY-SA 4.0
 
