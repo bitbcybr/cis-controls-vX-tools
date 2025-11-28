@@ -1,5 +1,5 @@
 #### Adding updated Worksheet for v.8.1
-Updated from v8.0 to v8.1 (CIS Change Log March 2025):
+Updated from v8.0 to v8.1 (as in CIS Change Log March 2025):
 - Security Functions
 -  Safeguard Descriptions/CIS Control Details
 
