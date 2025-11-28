@@ -1,6 +1,10 @@
 #### Adding updated Worksheet for v.8.1
-Security Functions updated. Some work to do but as of the great work from Auditscripts and MartinSohn not that much.
-Check of Safeguard Descriptions and Asset Classes as well as NIST will follow.
+Updated from v8.0 to v8.1 (CIS Change Log March 2025):
+- Security Functions
+-  Safeguard Descriptions/CIS Control Details
+
+Some work to do but as of the great work from Auditscripts and MartinSohn not that much.
+Check of Asset Classes as well as NIST and others will follow.
 
 License as was CC BY-SA 4.0
 
