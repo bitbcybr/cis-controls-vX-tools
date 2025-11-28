@@ -1,5 +1,5 @@
 #### Adding updated Worksheet for v.8.1
-Updated from v8.0 to v8.1 (as in CIS Change Log March 2025):
+Updated from v8.0 to v8.1 (2025):
 - Security Functions
 - Safeguard Descriptions/CIS Control Details
 - Asset Class
@@ -7,7 +7,7 @@ Updated from v8.0 to v8.1 (as in CIS Change Log March 2025):
 Some work to do but as of the great work from Auditscripts and MartinSohn not that much.
 Check of NIST mapping and other adjustments will follow.
 
-Note: Please search different ressources for the changes in CIS Controls v8.1 about the Decision Methodology for Asset Classes (e.g. "Documentation" added as Asset Class). 
+Note: Search for the changes in CIS Controls v8.1 about the Decision Methodology for Asset Classes (e.g. "Documentation" added as Asset Class). 
 
 License as was CC BY-SA 4.0
 
