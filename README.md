@@ -1,6 +1,6 @@
 #### Adding html with js remixed of original excel sheet
 Unfortunately not following software engineering standards and written with help. maybe its helpful, as this whole stuff should be.
-Just open it with a browser, runs locally without any external connection, saves progress **only in local storage of browser**. Reset and Export function included.
+Just open it with a browser, runs locally without any external connection, saves progress **only in local storage of browser, localStorage (STORAGE_KEY = "cis_assessment_v81a";)**. Reset and Export function included.
 
 ----
 
