@@ -1,5 +1,6 @@
 #### Adding html with js remixed of original excel sheet
 Unfortunately not following software engineering standards and written with help. maybe its helpful, as this whole stuff should be.
+Just open it with a browser, runs locally without any external connection, saves progress **only in local storage of browser**. Reset and Export function included.
 
 #### Adding updated Worksheet for v.8.1
 Updated from v8.0 to v8.1 (2025):
