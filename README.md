@@ -2,11 +2,11 @@
 Unfortunately not following software engineering standards and written with help. maybe its helpful, as this whole stuff should be.
 Just open it with a browser, runs locally without external connections (beside GET to licensebuttons.net for CC-BY-SA badge), saves progress **only in local storage of browser, localStorage (STORAGE_KEY = "cis_assessment_v81a";)**. Reset and Export function included. However, it's poor code.
 
-Use Excel Sheet for safe consistency and adjust where needed
+Use Excel Sheet for double check and adjust where needed
 
 ----
 
-#### Adding updated Worksheet for v.8.1
+#### Adding updated xlsx Worksheet for Controls v.8.1
 Updated from v8.0 to v8.1 (2025):
 - Security Functions
 - Safeguard Descriptions/CIS Control Details
